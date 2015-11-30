@@ -1,0 +1,5 @@
+At this scenario all criteria slider are set to the middle position, which corresponds to a distance value of 50.
+If you move the slider of one criterion to the farthest right or left position, you will see that some algorithms at the distance highscore become grayed. These algorithms have the opposite feature as the moved slider and are therefore marked as not recommended.
+For a better overview, try excluding all criteria with their red exclude buttons. Afterwards you can include all relevant criteria step by step to get a better feeling on their influence on the distance calclculation.
+Experiment with the criteria and observe their influence on the distance calculations. 
+Once you feel familiar with the tool, create an own scenario. Don't forget to give your scenario a meaningful name, and a description.

@@ -5,9 +5,7 @@ The PERICLES Content Aggregation Tool is a framework for Information Encapsulati
 
 The framework provides a set of Information Encapsulation techniques from different domains, and a decision mechanism to determine which of the techniques is the best one to use for a given user scenario.
 
-PeriCAT is not published yet. It will be available here, expected in November 2015.
-
-# Documentation 
+# Documentation
 
 *  [About] (https://github.com/pericles-project/PeriCAT/wiki)
 *  [Installation] (https://github.com/pericles-project/PeriCAT/wiki/Installation)

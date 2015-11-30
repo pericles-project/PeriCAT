@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PET file="/home/anna/workspace/PericlesExtractionTool/extracted_meta_data/Tests_metadata/ExtractorTestFile.xml">
+  <extraction date="Tue Sep 17 10:13:59 MEST 2013">
+    <last_modified>2013-09-17T08:03:51Z</last_modified>
+    <last_access>2013-09-17T08:03:51Z</last_access>
+    <creation_time>2013-09-17T08:03:51Z</creation_time>
+    <file_type>regularFile</file_type>
+    <file_size>0</file_size>
+    <file_key>(dev=803,ino=2891461)</file_key>
+    <file_group_owner>anna</file_group_owner>
+    <file_owner>anna</file_owner>
+    <total_space>142580088832</total_space>
+    <unallocated_space>124365340672</unallocated_space>
+    <is_readonly>false</is_readonly>
+    <file_store_name>rootfs</file_store_name>
+    <file_store_type>rootfs</file_store_type>
+    <file_mode>644</file_mode>
+    <file_permisson>rw-r--r--</file_permisson>
+    <file_name>/home/anna/workspace/PericlesExtractionTool/Tests/TestFile1</file_name>
+    <file_type>regular</file_type>
+  </extraction>
+</PET>
