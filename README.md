@@ -29,13 +29,18 @@ If you execute the PeriCAT.jar, the tool will create three additional directorie
 
 PeriCAT is a tool with the purpose of supporting the PERICLES research. This means that it is no mature business solution in its current state. However, we are very happy if the tool inspires others as base for further developments, education, or research. Therefore the Apache version 2 Open Source license is chosen to enable the possibility to reuse and play arround with the source code for everyone interested in this project.
 
-Visit the [PERICLES] (http://www.pericles-project.eu/) homepage for the related the background research and deliverables.
-
 ## License
 
 PeriCAT is licensed under the Apache License, Version 2.0.
 
 You may obtain a copy of the License at: [Apache v2] (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+## Links
+
+* [PERICLES Homepage] (http://www.pericles-project.eu/)
+* [Deliverable on Information Encapsulation] (http://www.pericles-project.eu/deliverables/59)
+* [Blog post about PeriCAT] (http://www.pericles-project.eu/blog/post/PeriCATrelease)
 
 # Credits
 
