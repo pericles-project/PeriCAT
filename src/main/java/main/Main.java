@@ -191,13 +191,13 @@ public class Main {
 	for (String payloadPath : options.payload) {
 	    File payload = new File(payloadPath);
 	    if (payload.isFile()) {
-
+			payloadFiles.add(payload);
 	    } else {
 		System.out.println("The payload \"" + payloadPath + "\" is not a valid file. Check typing.");
 		System.exit(0);
 	    }
 	}
-	if (payloadFiles.size() > 1) {
+	if (payloadFiles.size() > 0) {
 	    builder.usePayload(payloadFiles);
 	}
     }
