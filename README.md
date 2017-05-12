@@ -7,17 +7,17 @@ The framework provides a set of Information Encapsulation techniques from differ
 
 # Documentation
 
-*  [About] (https://github.com/pericles-project/PeriCAT/wiki)
-*  [Installation] (https://github.com/pericles-project/PeriCAT/wiki/Installation)
-*  [Quick Start Guide] (https://github.com/pericles-project/PeriCAT/wiki/Quick-Start-Guide)
-*  [Information Encapsulation Techniques] (https://github.com/pericles-project/PeriCAT/wiki/Integrated-Techniques)
-*  [Decision Mechanism] (https://github.com/pericles-project/PeriCAT/wiki/About-PeriCAT%27s-Decision-Mechanism)
-*  [Sheer Curation] (https://github.com/pericles-project/PeriCAT/wiki/Sheer-Curation-with-PET-and-PeriCAT)
-*  [Developer Guide] (https://github.com/pericles-project/PeriCAT/wiki/Developer-Guide)
+*  [About](https://github.com/pericles-project/PeriCAT/wiki)
+*  [Installation](https://github.com/pericles-project/PeriCAT/wiki/Installation)
+*  [Quick Start Guide](https://github.com/pericles-project/PeriCAT/wiki/Quick-Start-Guide)
+*  [Information Encapsulation Techniques](https://github.com/pericles-project/PeriCAT/wiki/Integrated-Techniques)
+*  [Decision Mechanism](https://github.com/pericles-project/PeriCAT/wiki/About-PeriCAT%27s-Decision-Mechanism)
+*  [Sheer Curation](https://github.com/pericles-project/PeriCAT/wiki/Sheer-Curation-with-PET-and-PeriCAT)
+*  [Developer Guide](https://github.com/pericles-project/PeriCAT/wiki/Developer-Guide)
 
 ## Directory Structure
 
-Execute the PeriCAT.jar to run the tool. It is delivered in a parent directory, called PeriCAT, together with the PeriCAT_libs directory, in which you can find the two external tools f5.jar and openstego.jar. That is because the licenses of f5 and openstego are not compatible with the PeriCAT license. f5 is licensed under LGPL [F5 Steganography] (https://code.google.com/p/f5-steganography/) and openstego under GPLv2 [OpenStego] (https://github.com/syvaidya/openstego).
+Execute the PeriCAT.jar to run the tool. It is delivered in a parent directory, called PeriCAT, together with the PeriCAT_libs directory, in which you can find the two external tools f5.jar and openstego.jar. That is because the licenses of f5 and openstego are not compatible with the PeriCAT license. f5 is licensed under LGPL [F5 Steganography](https://code.google.com/p/f5-steganography/) and openstego under GPLv2 [OpenStego](https://github.com/syvaidya/openstego).
 Therefore they have to be delivered externally of PeriCAT, and can't be included into the PeriCAT.jar. PeriCAT is able run without these tools, but then the steganography algorithms can't be used.
 
 If you execute the PeriCAT.jar, the tool will create three additional directories:
@@ -33,14 +33,14 @@ PeriCAT is a tool with the purpose of supporting the PERICLES research. This mea
 
 PeriCAT is licensed under the Apache License, Version 2.0.
 
-You may obtain a copy of the License at: [Apache v2] (http://www.apache.org/licenses/LICENSE-2.0)
+You may obtain a copy of the License at: [Apache v2](http://www.apache.org/licenses/LICENSE-2.0)
 
 
 ## Links
 
-* [PERICLES Homepage] (http://www.pericles-project.eu/)
-* [Deliverable on Information Encapsulation] (http://www.pericles-project.eu/deliverables/59)
-* [Blog post about PeriCAT] (http://www.pericles-project.eu/blog/post/PeriCATrelease)
+* [PERICLES Homepage](http://www.pericles-project.eu/)
+* [Deliverable on Information Encapsulation](http://www.pericles-project.eu/deliverables/59)
+* [Blog post about PeriCAT](http://www.pericles-project.eu/blog/post/PeriCATrelease)
 
 # Credits
 
